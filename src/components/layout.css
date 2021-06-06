@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  @apply max-w-screen-xl mx-auto;
+}
+
+h1 {
+  @apply font-bold text-6xl;
+}
