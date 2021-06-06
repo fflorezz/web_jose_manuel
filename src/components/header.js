@@ -1,5 +1,6 @@
 import React from "react";
 import { Link } from "gatsby";
+import NavLink from "./header-navLink";
 
 const Header = () => {
   return (
@@ -9,18 +10,10 @@ const Header = () => {
       </Link>
       <nav className="w-5/12">
         <ul className="flex justify-between text-3xl font-bold">
-          <li>
-            <Link to="/bio">Bio</Link>
-          </li>
-          <li>
-            <Link to="/obras">Obras</Link>
-          </li>
-          <li>
-            <Link to="/noticias">Noticias</Link>
-          </li>
-          <li>
-            <Link to="/contacto">Contacto</Link>
-          </li>
+          <NavLink url="/bio">Bio</NavLink>
+          <NavLink url="/obras">Obras</NavLink>
+          <NavLink url="/noticias">Noticias</NavLink>
+          <NavLink url="/contacto">Contacto</NavLink>
         </ul>
       </nav>
     </heade>
