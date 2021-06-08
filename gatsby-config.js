@@ -1,6 +1,8 @@
 module.exports = {
   siteMetadata: {
     title: "José Manuel Freidel",
+    description:
+      "Sitio web que recopila el legado y obra de José Manuel Freidel",
   },
   plugins: [
     "gatsby-plugin-image",

@@ -4,7 +4,7 @@ import NavLink from "./header-navLink";
 
 const Header = () => {
   return (
-    <heade className="flex justify-between items-center text-gray-600 py-4 border-b border-gray-200">
+    <header className="flex justify-between items-center text-gray-600 py-4 border-b border-gray-200">
       <Link to="/" className="text-4xl font-bold ">
         José Manuel Freidel
       </Link>
@@ -16,7 +16,7 @@ const Header = () => {
           <NavLink url="/contacto">Contacto</NavLink>
         </ul>
       </nav>
-    </heade>
+    </header>
   );
 };
 

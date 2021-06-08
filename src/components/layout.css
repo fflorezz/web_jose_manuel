@@ -17,3 +17,7 @@ h1 {
 li {
   @apply cursor-pointer;
 }
+
+p {
+  @apply text-lg text-gray-500 leading-6 pb-4;
+}
