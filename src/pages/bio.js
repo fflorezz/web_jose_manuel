@@ -9,10 +9,10 @@ const Bio = () => {
   return (
     <Layout>
       <PageTitle>Biografía</PageTitle>
-      <div className="grid grid-cols-12 gap-8 mt-10">
+      <div className="grid grid-cols-12 gap-8 mt-8">
         <div className="col-span-5">
           <StaticImage
-            src="../images/jm-port-01.jpg"
+            src="https://res.cloudinary.com/dnenhfh4v/image/upload/v1623202532/web_juan_manuel/jm-port-01-md_xz9eoc.jpg"
             alt="retrato José Manuel Freidel"
           />
         </div>

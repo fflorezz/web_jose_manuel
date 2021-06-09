@@ -16,7 +16,7 @@ export default function Layout({ children }) {
         <meta name="description" content={description} />
       </Helmet>
       <Header />
-      <main>{children}</main>
+      <main className="mt-12">{children}</main>
     </div>
   );
 }
