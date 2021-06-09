@@ -19,5 +19,5 @@ li {
 }
 
 p {
-  @apply text-lg text-gray-500 leading-6 pb-4;
+  @apply text-base text-gray-500 pb-4;
 }
