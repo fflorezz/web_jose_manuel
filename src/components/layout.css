@@ -7,11 +7,14 @@ html {
 }
 
 body {
-  @apply max-w-screen-xl px-10 mx-auto;
+  @apply max-w-screen-xl;
+  @apply px-10;
+  @apply mx-auto;
 }
 
 h1 {
-  @apply font-bold text-8xl;
+  @apply font-bold;
+  @apply text-8xl;
 }
 
 li {
@@ -19,5 +22,7 @@ li {
 }
 
 p {
-  @apply text-base text-gray-500 pb-4;
+  @apply text-base;
+  @apply text-gray-500;
+  @apply pb-4;
 }
