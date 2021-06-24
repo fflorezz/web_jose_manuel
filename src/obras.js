@@ -269,3 +269,5 @@ const obras = [
     },
   },
 ]
+
+export default obras

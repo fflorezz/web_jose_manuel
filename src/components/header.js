@@ -1,6 +1,6 @@
-import React from "react";
-import { Link } from "gatsby";
-import NavLink from "./header-navLink";
+import React from 'react'
+import { Link } from 'gatsby'
+import NavLink from './header-navLink'
 
 const Header = () => {
   return (
@@ -9,8 +9,8 @@ const Header = () => {
         <Link to="/" className="text-2xl font-black text-gray-800 ">
           José Manuel Freidel
         </Link>
-        <nav className="w-3/12">
-          <ul className="flex justify-between">
+        <nav>
+          <ul className="flex">
             <NavLink url="/bio">Bio</NavLink>
             <NavLink url="/obras">Obras</NavLink>
             <NavLink url="/noticias">Noticias</NavLink>
@@ -19,7 +19,7 @@ const Header = () => {
         </nav>
       </div>
     </header>
-  );
-};
+  )
+}
 
-export default Header;
+export default Header
