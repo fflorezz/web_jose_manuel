@@ -1,5 +1,25 @@
 const obras = [
   {
+    images: [
+      {
+        url: 'https://res.cloudinary.com/dnenhfh4v/image/upload/v1624659563/web_juan_manuel/Amantina_o_la_historia_de_un_desamor/Amantina_o_la_historia_de_un_desamor_03_md_rt11p4.jpg',
+      },
+      {
+        url: 'https://res.cloudinary.com/dnenhfh4v/image/upload/v1624659564/web_juan_manuel/Amantina_o_la_historia_de_un_desamor/Amantina_o_la_historia_de_un_desamor_05_md_bbamak.jpg',
+      },
+      {
+        url: 'https://res.cloudinary.com/dnenhfh4v/image/upload/v1624659567/web_juan_manuel/Amantina_o_la_historia_de_un_desamor/Amantina_o_la_historia_de_un_desamor_02_md_nmvaeq.jpg',
+      },
+      {
+        url: 'https://res.cloudinary.com/dnenhfh4v/image/upload/v1624659563/web_juan_manuel/Amantina_o_la_historia_de_un_desamor/Amantina_o_la_historia_de_un_desamor_04_md_zn8nqj.jpg',
+      },
+      {
+        url: 'https://res.cloudinary.com/dnenhfh4v/image/upload/v1624659563/web_juan_manuel/Amantina_o_la_historia_de_un_desamor/Amantina_o_la_historia_de_un_desamor_01_md_hmd68b.jpg',
+      },
+      {
+        url: 'https://res.cloudinary.com/dnenhfh4v/image/upload/v1624659563/web_juan_manuel/Amantina_o_la_historia_de_un_desamor/Amantina_o_la_historia_de_un_desamor_06_md_h7hkqi.jpg',
+      },
+    ],
     id: 1,
     title: 'Amantina o la historia de un desamor',
     year: '1975',
@@ -88,6 +108,20 @@ const obras = [
     },
   },
   {
+    images: [
+      {
+        url: 'https://res.cloudinary.com/dnenhfh4v/image/upload/v1624660515/web_juan_manuel/Los_infortunios_de_la_Bella_Otero_y_otras_desdichas/Los_infortunios_de_la_Bella_Otero_y_otras_desdichas_04_md_wprehq.jpg',
+      },
+      {
+        url: 'https://res.cloudinary.com/dnenhfh4v/image/upload/v1624660517/web_juan_manuel/Los_infortunios_de_la_Bella_Otero_y_otras_desdichas/Los_infortunios_de_la_Bella_Otero_y_otras_desdichas_01_md_hp1tbm.jpg',
+      },
+      {
+        url: 'https://res.cloudinary.com/dnenhfh4v/image/upload/v1624660512/web_juan_manuel/Los_infortunios_de_la_Bella_Otero_y_otras_desdichas/Los_infortunios_de_la_Bella_Otero_y_otras_desdichas_02_md_xvoad1.jpg',
+      },
+      {
+        url: 'https://res.cloudinary.com/dnenhfh4v/image/upload/v1624660512/web_juan_manuel/Los_infortunios_de_la_Bella_Otero_y_otras_desdichas/Los_infortunios_de_la_Bella_Otero_y_otras_desdichas_03_md_utarge.jpg',
+      },
+    ],
     id: 4,
     title: 'Los infortunios de la Bella Otero y otras desdichas',
     year: '1983',
@@ -162,6 +196,23 @@ const obras = [
     },
   },
   {
+    images: [
+      {
+        url: 'https://res.cloudinary.com/dnenhfh4v/image/upload/v1624661703/web_juan_manuel/Las_Burguesas_de_la_calle_menor/Las_Burguesas_de_la_calle_menor_03_md_dddhnd.jpg',
+      },
+      {
+        url: 'https://res.cloudinary.com/dnenhfh4v/image/upload/v1624661704/web_juan_manuel/Las_Burguesas_de_la_calle_menor/Las_Burguesas_de_la_calle_menor_01_md_wva6eb.jpg',
+      },
+      {
+        url: 'https://res.cloudinary.com/dnenhfh4v/image/upload/v1624661703/web_juan_manuel/Las_Burguesas_de_la_calle_menor/Las_Burguesas_de_la_calle_menor_05_md_u40iyx.jpg',
+      },
+      {
+        url: 'https://res.cloudinary.com/dnenhfh4v/image/upload/v1624661703/web_juan_manuel/Las_Burguesas_de_la_calle_menor/Las_Burguesas_de_la_calle_menor_04_md_x0fxwz.jpg',
+      },
+      {
+        url: 'https://res.cloudinary.com/dnenhfh4v/image/upload/v1624661701/web_juan_manuel/Las_Burguesas_de_la_calle_menor/Las_Burguesas_de_la_calle_menor_02_md_gek9tp.jpg',
+      },
+    ],
     id: 7,
     title: 'Las Burguesas de la calle menor',
     year: '1986',
@@ -180,6 +231,14 @@ const obras = [
     },
   },
   {
+    images: [
+      {
+        url: 'https://res.cloudinary.com/dnenhfh4v/image/upload/v1624662503/web_juan_manuel/ay_dias_chiqui/ay_dias_chiqui_01_md_k9wrc9.jpg',
+      },
+      {
+        url: 'https://res.cloudinary.com/dnenhfh4v/image/upload/v1624662502/web_juan_manuel/ay_dias_chiqui/ay_dias_chiqui_02_md_ixcet8.jpg',
+      },
+    ],
     id: 8,
     title: '¡Ay! días… Chiqui',
     year: '1987',
@@ -197,6 +256,20 @@ const obras = [
     },
   },
   {
+    images: [
+      {
+        url: 'https://res.cloudinary.com/dnenhfh4v/image/upload/v1624662973/web_juan_manuel/la_visita/la_visita_01_md_a0b19q.jpg',
+      },
+      {
+        url: 'https://res.cloudinary.com/dnenhfh4v/image/upload/v1624662968/web_juan_manuel/la_visita/la_visita_04_md_iyinvu.jpg',
+      },
+      {
+        url: 'https://res.cloudinary.com/dnenhfh4v/image/upload/v1624662968/web_juan_manuel/la_visita/la_visita_03_md_p3izgj.jpg',
+      },
+      {
+        url: 'https://res.cloudinary.com/dnenhfh4v/image/upload/v1624662967/web_juan_manuel/la_visita/la_visita_02_md_szlvlk.jpg',
+      },
+    ],
     id: 9,
     title: 'La Visita',
     year: '1988',
@@ -251,6 +324,26 @@ const obras = [
     },
   },
   {
+    images: [
+      {
+        url: 'https://res.cloudinary.com/dnenhfh4v/image/upload/v1624663548/web_juan_manuel/el_padre_casafus/el_padre_casafus_01_md_jptyfd.jpg',
+      },
+      {
+        url: 'https://res.cloudinary.com/dnenhfh4v/image/upload/v1624663549/web_juan_manuel/el_padre_casafus/el_padre_casafus_06_md_nxl4hr.jpg',
+      },
+      {
+        url: 'https://res.cloudinary.com/dnenhfh4v/image/upload/v1624663548/web_juan_manuel/el_padre_casafus/el_padre_casafus_05_md_bd0eeu.jpg',
+      },
+      {
+        url: 'https://res.cloudinary.com/dnenhfh4v/image/upload/v1624663547/web_juan_manuel/el_padre_casafus/el_padre_casafus_03_md_olgbys.jpg',
+      },
+      {
+        url: 'https://res.cloudinary.com/dnenhfh4v/image/upload/v1624663546/web_juan_manuel/el_padre_casafus/el_padre_casafus_04_md_l8uoz4.jpg',
+      },
+      {
+        url: 'https://res.cloudinary.com/dnenhfh4v/image/upload/v1624663545/web_juan_manuel/el_padre_casafus/el_padre_casafus_02_md_oerxn0.jpg',
+      },
+    ],
     id: 12,
     title: 'El padre Casafús',
     year: '1990',
