@@ -3,9 +3,10 @@ import Layout from '../components/layout'
 import PageTitle from '../components/page-title'
 import PlayPreview from './../components/play-preview'
 
-import plays from '../obras'
+import useObras from './../hooks/use-obras'
 
 const Obras = () => {
+  const plays = useObras()
   return (
     <Layout>
       <PageTitle>Obras</PageTitle>
