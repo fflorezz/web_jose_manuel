@@ -36,7 +36,7 @@ exports.createPages = async ({ actions, graphql, reporter }) => {
       path: `obras/${play.slug}`,
       component: require.resolve('./src/templates/play.js'),
       context: {
-        slug: `obras/${play.slug}`,
+        slug: play.slug,
       },
     })
   })
