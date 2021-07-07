@@ -24,6 +24,7 @@ module.exports = {
         },
       ],
       id: 1,
+      slug: 'amantina-page',
       title: 'Amantina o la historia de un desamor',
       year: '1975',
       intro: [
@@ -51,6 +52,7 @@ module.exports = {
     },
     {
       id: 2,
+      slug: 'romances-page',
       title: 'Romances',
       year: '1978',
       intro: [
@@ -75,6 +77,7 @@ module.exports = {
     },
     {
       id: 3,
+      slug: 'arpias-page',
       title: 'Las arpías',
       year: '1981',
       intro: [
@@ -126,6 +129,7 @@ module.exports = {
         },
       ],
       id: 4,
+      slug: 'infortunios-page',
       title: 'Los infortunios de la Bella Otero y otras desdichas',
       year: '1983',
       intro: [
@@ -143,6 +147,7 @@ module.exports = {
     },
     {
       id: 5,
+      slug: 'hamlet-page',
       title: 'Hamlet en este país de ratas retóricas',
       year: '1985',
       intro: [
@@ -179,6 +184,7 @@ module.exports = {
     },
     {
       id: 6,
+      slug: 'monologo-page',
       title: 'Monólogo para una actriz triste',
       year: '1986',
       intro: [
@@ -217,6 +223,7 @@ module.exports = {
         },
       ],
       id: 7,
+      slug: 'burguesas-page',
       title: 'Las Burguesas de la calle menor',
       year: '1986',
       intro: [
@@ -243,6 +250,7 @@ module.exports = {
         },
       ],
       id: 8,
+      slug: 'chiqui-page',
       title: '¡Ay! días… Chiqui',
       year: '1987',
       intro: [
@@ -274,6 +282,7 @@ module.exports = {
         },
       ],
       id: 9,
+      slug: 'visita-page',
       title: 'La Visita',
       year: '1988',
       intro: [
@@ -292,6 +301,7 @@ module.exports = {
     },
     {
       id: 10,
+      slug: 'manuela-page',
       title: 'Las tardes de Manuela',
       year: '1989',
       intro: [
@@ -310,6 +320,7 @@ module.exports = {
     },
     {
       id: 11,
+      slug: 'tribulaciones-page',
       title:
         'Tribulaciones de un abogado que quiso ser actor o el oloroso caso de la manzana verde',
       year: '1989',
@@ -348,6 +359,7 @@ module.exports = {
         },
       ],
       id: 12,
+      slug: 'casafus-page',
       title: 'El padre Casafús',
       year: '1990',
       intro: [

@@ -7,6 +7,7 @@ const useObras = () => {
         siteMetadata {
           obras {
             id
+            slug
             title
             year
             intro {
