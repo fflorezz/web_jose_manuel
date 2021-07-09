@@ -12,9 +12,18 @@ body {
   @apply mx-auto;
 }
 
+main {
+  @apply px-4;
+}
+
 h1 {
   @apply font-bold;
   @apply text-8xl;
+}
+
+h2 {
+  @apply font-medium;
+  @apply text-5xl;
 }
 
 li {

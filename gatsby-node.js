@@ -31,12 +31,12 @@ exports.createPages = async ({ actions, graphql, reporter }) => {
   const plays = result.data.site.siteMetadata.obras
 
   plays.forEach(play => {
-    console.log(play.slug)
     actions.createPage({
       path: `obras/${play.slug}`,
       component: require.resolve('./src/templates/play.js'),
       context: {
         slug: play.slug,
+        play,
       },
     })
   })
