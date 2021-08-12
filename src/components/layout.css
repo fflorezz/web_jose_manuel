@@ -8,12 +8,14 @@ html {
 
 body {
   @apply max-w-screen-xl;
-  @apply px-10;
+  @apply px-6;
+  @apply lg:px-10;
   @apply mx-auto;
 }
 
 main {
-  @apply px-4;
+  @apply px-0;
+  @apply lg:px-0;
 }
 
 h1 {

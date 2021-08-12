@@ -1,0 +1,46 @@
+.menuToggle {
+  width: 40px;
+  height: 32px;
+  display: block;
+  position: relative;
+  z-index: 1;
+  -webkit-user-select: none;
+  user-select: none;
+}
+
+.menuToggle span {
+  display: block;
+  width: 33px;
+  height: 4px;
+  position: relative;
+  margin-bottom: 5px;
+  @apply bg-gray-800;
+  border-radius: 3px;
+  z-index: 1;
+  transform-origin: 4px 0px;
+  transition: transform 0.5s cubic-bezier(0.77, 0.2, 0.05, 1),
+    background 0.5s cubic-bezier(0.77, 0.2, 0.05, 1), opacity 0.55s ease;
+}
+
+.menuToggle span:first-child {
+  transform-origin: 0% 100%;
+}
+
+.menuToggle span:nth-last-child(2) {
+  margin-bottom: 6px;
+  transform-origin: 100% 0%;
+}
+
+.menuToggle.open span:nth-last-child(3) {
+  transform: rotate(45deg) translate(-1px, -1px);
+  background: #232323;
+}
+
+.menuToggle.open span:nth-last-child(2) {
+  opacity: 0;
+  transform: rotate(0deg) scale(0.2, 0.2);
+}
+
+.menuToggle.open span:nth-last-child(1) {
+  transform: rotate(-45deg) translate(-1px, 0px);
+}

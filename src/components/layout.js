@@ -1,13 +1,13 @@
-import React from "react";
-import Helmet from "react-helmet";
-import Header from "./header";
+import React from 'react'
+import Helmet from 'react-helmet'
+import Header from './header'
 
-import useSiteMetadata from "../hooks/use-sitemetadata";
+import useSiteMetadata from '../hooks/use-sitemetadata'
 
-import "./layout.css";
+import './layout.css'
 
 export default function Layout({ children }) {
-  const { title, description } = useSiteMetadata();
+  const { title, description } = useSiteMetadata()
   return (
     <div>
       <Helmet>
@@ -16,7 +16,7 @@ export default function Layout({ children }) {
         <meta name="description" content={description} />
       </Helmet>
       <Header />
-      <main className="mt-12">{children}</main>
+      <main className="mt-20 lg:mt-12">{children}</main>
     </div>
-  );
+  )
 }
