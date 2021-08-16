@@ -8,7 +8,9 @@ const Play = ({ pageContext: { play } }) => {
   return (
     <Layout>
       <PlayTitle>{play.title}</PlayTitle>
-      <div className="text-gray-400 text-3xl font-medium mt-2">{play.year}</div>
+      <div className="text-gray-400 text-xl font-medium mt-2 md:text-2xl lg:text-3xl">
+        {play.year}
+      </div>
       <PlayIntro intro={play.intro} />
       <div className="mt-10">
         {play.abstract.paragraphs.map(par => {

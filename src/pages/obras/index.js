@@ -10,7 +10,7 @@ const Obras = () => {
   return (
     <Layout>
       <PageTitle>Obras</PageTitle>
-      <section className="mt-10">
+      <section className="mt-6">
         {plays.map((play, idx) => {
           return <PlayPreview idx={idx} key={play.id} play={play} />
         })}
