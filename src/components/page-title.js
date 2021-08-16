@@ -2,7 +2,7 @@ import React from 'react'
 
 export default function PageTitle({ children }) {
   return (
-    <h1 className="text-gray-300 border-b border-gray-100 lg:px-4">
+    <h1 className="text-gray-300 border-b border-gray-100 lg:px-4 pt-2">
       {children}
     </h1>
   )
