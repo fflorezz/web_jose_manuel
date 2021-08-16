@@ -1,22 +1,22 @@
-import React from "react";
+import React from 'react'
 
-import { StaticImage } from "gatsby-plugin-image";
+import { StaticImage } from 'gatsby-plugin-image'
 
-import Layout from "../components/layout";
-import PageTitle from "../components/page-title";
+import Layout from '../components/layout'
+import PageTitle from '../components/page-title'
 
 const Bio = () => {
   return (
     <Layout>
       <PageTitle>Biografía</PageTitle>
-      <div className="grid grid-cols-12 gap-8 mt-8">
-        <div className="col-span-5">
+      <div className="grid grid-cols-12 mt-8 md:gap-8">
+        <div className="col-span-12 md:col-span-5">
           <StaticImage
             src="https://res.cloudinary.com/dnenhfh4v/image/upload/v1623202532/web_juan_manuel/jm-port-01-md_xz9eoc.jpg"
             alt="retrato José Manuel Freidel"
           />
         </div>
-        <div className="col-span-7">
+        <div className="mt-6 col-span-12 md:col-span-7 md:mt-0">
           <p>
             José Manuel Freidel Correa (Santa Bárbara, 24 de septiembre de 1951
             - Medellín, 28 de septiembre de 1990) Fue uno de los pioneros de la
@@ -142,7 +142,7 @@ const Bio = () => {
         </div>
       </div>
     </Layout>
-  );
-};
+  )
+}
 
-export default Bio;
+export default Bio
