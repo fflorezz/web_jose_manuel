@@ -13,8 +13,20 @@ const Play = ({ pageContext: { play } }) => {
       </div>
       <PlayIntro intro={play.intro} />
       <div className="mt-10">
-        {play.abstract.paragraphs.map(par => {
-          return <p>{par}</p>
+        {play.abstract.paragraphs.map((par, idx) => {
+          return <p key={idx}>{par}</p>
+        })}
+      </div>
+      <div className="mt-10">
+        {play.images.map(img => {
+          return (
+            <img
+              src={img.url}
+              key={img.url}
+              alt={play.title}
+              className="w-full mx-auto mb-10"
+            />
+          )
         })}
       </div>
     </Layout>
