@@ -384,4 +384,195 @@ module.exports = {
       },
     },
   ],
+  noticias: [
+    {
+      images: [
+        {
+          url: 'https://res.cloudinary.com/dnenhfh4v/image/upload/v1624659563/web_juan_manuel/Amantina_o_la_historia_de_un_desamor/Amantina_o_la_historia_de_un_desamor_03_md_rt11p4.jpg',
+        },
+      ],
+      id: 1,
+      slug: 'con-las-tablas-en-la-sangre',
+      title: 'José Manuel Freidel: con las tablas en la sangre',
+      source: 'El Siglo',
+      author: 'Juan Esteban Osorio Luna',
+      date: 'Octubre 1 de 1995',
+      abstract: {
+        paragraphs: [
+          'El 28 de septiembre 1990 fue asesinado en Medellín uno de los principales dramaturgos colombianos. Un esteta del arte dramático.',
+        ],
+      },
+      sections: [
+        {
+          paragraphs: [
+            'Alguna vez, en 1983, al grupo La Fanfarria de Medellín se le presentó una opor­tunidad inigualable: cuando iban a estrenar su más reciente obra, Los infortunios de la Bella Otero y otras desdichas, la sucursal en Medellín de un importante banco les ofreció comprarles la primera función. Maravilloso. Eran días difíciles en los que el teatro era sufrido -más que aho­ra-, y ese tipo de oportunidades, difícilmente podían despreciar­se. Aceptaron felices.',
+            'El banco -en su derecho- les pidió antes ver un video de la obra. Efectivamente fue cedido. La obra, matizada por esa pica­resca española, contaba la histo­ria de una hermosa joven, que en los duros años de la guerra de los Mil Días debió prostituirse para sobrellevar la carga económica de su familia.',
+            'Algunos pasajes no les gusta­ron a los del banco y pidieron el favor de retirarlos.',
+            'Empezó la discusión interna entre el grupo: ¿qué hacemos? Es buena plata, sí, pero nos están censurando, ¿la cortamos? No, icómo se nos ocurre! ¿Qué hace­mos?... Duda general. Y a grandes males... grandes remedios. La solución corrió por cuenta del director del grupo, un joven dra­maturgo con una trayectoria de respeto, aunque no muy conoci­do fuera del medio teatral.',
+            'La noche del estreno, el Teatro Lido era el paraíso de un artista: 2000 personas -no es un número muy común para un público de teatro. La obra transcurría sin novedades extra-dramatúrgicas. Segundos antes de la controverti­da escena se oyó una fuerte voz que anunciaba: iCorte! La escena está censurada.',
+            'En ese momento el telón no cayó piadosamente. El público se lanzó en abajos y protestas contra la institución bancaria, patroci­nadora del concierto. Y en el mo­mento en que, días después, el jo­ven director fue a reclamar el cheque merecido, además de la plata, le encimaron su respectiva "vaciada" por imprudente (para lo que le importó...).',
+          ],
+        },
+        {
+          subtitle: 'Mira quién era',
+          paragraphs: [
+            'El joven dramaturgo, impru­dente, irreverente y demás, era José Manuel Freidel, un antio­queño que dedicó la corta vida que le dejaron disponible al tea­tro, en el que irrumpió a los 15 años, cuando estaba en el colegio, con una de las pocas adaptacio­nes que hizo en la vida el clásico, de Tomás Carrasquilla, A la dies­tra de Dios Padre.',
+            'No fue el más convencional, ni el más "fácil". Era un tipo bien complicado, con una cabeza sub­yugada por entero al teatro, con un grupo de amigos fieles que lo siguieron en todas sus locas aven­turas teatrales, que más que ami­gos, fueron cómplices de toda su actividad creativa.',
+            'Son los mismos que ahora cuentan con una agridulce mez­cla de tristeza y orgullo todas las peripecias de "Jose", el dramatur­go y el amigo, el responsable de buena parte del teatro en Antio­quia y en Colombia; lose", el mismo que murió hace cinco años a unos pasos del teatro crea­do y criado por él, en el Medellín co-protagonista de sus dramas -el protagonista principal siem­pre fue el país y sus historias-.',
+          ],
+        },
+        {
+          subtitle: 'Historia del Teatro',
+          paragraphs: [
+            'José Manuel Freidel. Santa Bárbara, Antioquía, septiembre 24, 1951/Medellín, 28-29 de sep­tiembre de 1990.',
+            'Todo lo que hay entre esas dos fechas debe remitirse al único destino y motivo conocido por él: el teatro.',
+            'Desde sus primeros montajes en la Universidad de Medellín - una institución que a pesar de todo era muy conservadora-, de la que desertó de la facultad de Derecho y de la facultad de hacer obras universitarias. Y no nece­sariamente contestatarias de rojo subido, no. Adela Donadío, amiga, actriz y acompañante en todas las empresas que emprendió José Ma­nuel, apunta: "Hay que tener en cuenta que en ese momento, la ma­yoría del teatro que se hacía tenía que ver con la protesta, lo contest­atario, la denuncia. Pero a "Jose" eso no le gustaba mucho. Sí traba­jaba el tema político, pero sin caer en la caricatura y el panfleto; ade­más, los grupos que dirigió en esa época –‘El grupo’ y ‘a,e,i,o,u’, nun­ca se casaron con ningún movi­miento político, contrario a lo que hacían el resto de grupos."',
+            'José Manuel Freidel estaba acostumbrado a la contravía, pero no por posición, sino por convicción, así suene cliché y manido. -Algunas rebeliones nunca podrán ser esquematiza­das-.',
+            'Freidel siempre supo lo que quería y a eso se dedicó. Sus prio­ridades se enmarcaban en un ta­blado, y no sólo eran intereses puramente literarios; para él, la estética era tan valiosa como lo escrito.',
+            'No a todo el mundo le gustaba: algunas actrices alegaron de­mencia ajena cuando se retiraron de un grupo. Los calificativos fueron "-iEs un lenguaje deliran­te! iEs un esquizofrénico!" (para lo que le importaba...)',
+          ],
+        },
+        {
+          subtitle: 'Hombre complicado y cinéfilo',
+          paragraphs: [
+            'En general, por buen tipo que fuera, no resultaba ser el más sencillo. Nora Quintero, la actriz por excelencia de sus obras, recuerda que "Jose" no terna el me­nor problema en llamarla a las tres de la mañana para leerle el último pedazo del libreto que acababa de terminar... -José -in­tentaba débilmente ella-, maña­na hay ensayo a las 10 a.m. ¿Por qué no...? -No, es que es ya. Y dice...." Y decía.',
+            'Se daba el lujo de crear perso­najes y monólogos enteros para los actores-amigos que lo rodea- han. La música lo transformaba, especialmente la salsa -y más aún borracho y bailando- , pero iay! de que se encaramara a un carro y el radio estuviera prendido: - Apagá, apagá eso, que queremos tranquilidad... Sentía fascina­ción por el cine -Herzog, Fassbin­der, Buñuel, Altman-e incluso, llegó a trabajar uno que otro guión que nunca pudo terminar, porque la impertinente muerte lo interrumpió.',
+            'Escribía donde la también im­prudente inspiración lo agarra­ba. Andaba para arriba y para abajo con su agendita de apuntes que llegaban solos, cuando les provocaba la caprichosa gana.',
+            'Nora aventura una hermosa definición del dramaturgo: “‘Jo­se’ nacio con el lápiz en una mano, el papel en la otra, y el cupo de letras completo, pero al­guien se lo dejo incompleto..."',
+            'Es de suponer que una gran cantidad de gente no conozca el nombre ni las obras de José Ma­nuel Freidel (eso puede decir más de la gente que de Freidel).',
+            'Y también es de suponer que tengamos una deuda con él. Con su obra y con el teatro mismo. Porque no es justo que la muerte sea capaz de matar al hombre y su obra. A él se lo puede llevar -la muy cobarde-. Pero no su obra. No sería lógico. Ni justo. Y ade­más de hacerse un favor a uno mismo, buscando y encontrando la obra de José Manuel Freidel, sería una forma sencilla -y tea­tral- de ganarle una a la muerte. Porque ella tampoco puede ga­narlas todas.',
+          ],
+        },
+      ],
+    },
+    {
+      images: [
+        {
+          url: 'https://res.cloudinary.com/dnenhfh4v/image/upload/v1624659563/web_juan_manuel/Amantina_o_la_historia_de_un_desamor/Amantina_o_la_historia_de_un_desamor_03_md_rt11p4.jpg',
+        },
+      ],
+      id: 2,
+      slug: 'lo-tuyo-es-puro-teatro',
+      title: 'Freidel, lo tuyo es puro teatro',
+      source: 'El Mundo',
+      author: 'Ramiro Tejada',
+      date: 'Septiembre 29 de 1995',
+      abstract: {
+        paragraphs: [
+          'Colcultura, la Casa del Teatro Nacional y un grupo de amigos de José Manuel Freidel han programado una serie de actividades en torno a su vida y obra, en el mes que nació y murió, hoy hace cinco años.',
+        ],
+      },
+      sections: [
+        {
+          paragraphs: [
+            'Risa y reflexión suscita siempre la obra de Freidel. Y la vida nos cobra la risa con un borbotón de llanto. Es el sedimento que le queda al espectador luego de acariciar sus personajes.',
+            'El corpus dramático de José Manuel Freidel, cercano a las 35 piezas teatrales, devela entre oscuras metáforas y alusiones poéticas, la carga intensa con que respondió al siglo de sombras que le tocó vivir en este país de ratas retóricas. Sus textos entremezclaban la reflexión filosófica del acontecer cotidiano de las gentes del despojo y del desarraigo con la sutil provocación de una risa dolorosa.',
+            'El teatro de Freidel, su vida misma, es profundamente teatral. Toda su obra alude siempre a la relación vida- teatro. En el momento de creación se confunden las necesidades expresivas de las puestas en escena con la toma de posición de los problemas que abordó.',
+            'Desde sus primeros juegos teatrales con el Grupo, las medallas del General y desenredando, el desdoblamiento múltiple del actor, el distanciamiento -no a la manera Brecht- como ruptura del eje narrativo, el rompimiento de los espacios del actor, el entramado de historias, todo dimensionado por la metáfora. Y en medio de, la tragedia del soldado alienado, o del campesino que recobra su parcela,  la risa como bálsamo, para provocar una reflexión y una toma de conciencia posterior.',
+            'Juego repetitivo de sombras y atmósferas sombrías para dar cuenta de la época, tan poco ilustrada, que le tocó en suerte. Poética del desarraigo. Freidel fue un exiliado del tiempo, pero no fue anacrónico sino visionario: Ojo avizor de utopías. En su obra conviven la desesperanza y el olvido, la soledad y la muerte. Una suerte de fatalidad cruza sus personajes con su carga de desdichas y endechas, pero su trayecto no es lineal. La alteridad materializa los momentos vividos y soñados, los recuerdos y el presente. En las obras en que tocó la historia del país: la violencia de los años cincuenta, en Amantina o la historia de un desamor, la guerra de los mil días, en Los infortunios de la bella Otero y otras desdichas, el triste recuerdo de Manuela Sáenz en su Paita intemporal y el zurcir de la memoria del libertador traicionado, en Las tardes de Manuela, los personajes trascienden su propia época y se pierden por los vericuetos de su tiempo y su memoria en un eterno presente.',
+            'Retozón y desenfadado, otra faceta oculta, a la hora de resolver las escenas, prefería el humor sabio a la banalidad, el texto cocido entre prosemas y coloquios -el caso de los cuatro romances-recuperación de arcaísmos y palabras desuetas, a la utilización de lenguajes llanos y escuetos. De allí que se le tildara de retórico. Lo fue también de la imagen. En sus obras no claudicó jamás una composición, siempre pintaba sus obras con los colores que quiso, daba personal textura a sus escenografías y en el claroscuro y en los matices de luz, realzaba el ocre ácido de sus textos.',
+            'El escenario se poblaba de objetos, todos significantes, que daban claves sueltas a la interpretación y a la construcción de las acciones dramáticas. Chatarra reciclada o el fino papel de colgadura, la escultura en hueso, alambre o metal o los objetos simples eran convertidos en artefactos teatrales, refaccionados y reconstruidos, intercambiando el nivel simbólico. El espacio escénico en la obra de Freidel es cambiante, transformable sutilmente, sin develar trucos, todo movido por la intención. Hasta el actor fue objeto, como en Aquí no pasa Nada, en la cual, en ese extremo desesperante de acciones no verbales, son, literalmente, vasijas llenas de basura.',
+            'En su fascinación por Jean Genet -junto con Eugene lonesco y Witold Gombrowict fueron sus únicos autores retomados y reescritos- elabora una parábola de la condición humana en la Lavandera, construida como el testimonio en el expediente judicial, a partir de un momento del Diario del ladrón, o en Las Arpias, el crimen de las hermanas Pappini de las Criadas, es re-creado para dar cuenta del intemporal odio que provoca el servilismo, el dulce veneno. Satírico pulió versos lacerante, verdaderos filos punzantes.',
+            'Van ya cinco años sin Freidel, cada año en su aniversario sus actores, sus amigos, organizan veladas en su memoria, es la forma asumida para exorcizar su muerte, danzar, cantar, sus textos, ya no ahogar el grito, explotar como un volcán su prosa. Dar cuenta que su obra sigue siendo vital para el teatro colombiano, como alimento de nuevos dramaturgos y de nuevas dramaturgias, porque no se amoldó nunca a una forma de hacer determinada, porque no renunció jamás a la búsqueda intensa e insaciable de un lenguaje expresivo que se renovara en sí mismo, en su reiteración y en su retórica, porque asumió los retos de la creación con pasión desbordada, porque creo una realidad onírica en sus obras, porque no se arredró ante la amenaza de lo oficial y se declaró eterno marginal en su creación  de un teatro experimental.',
+          ],
+        },
+        {
+          subtitle: 'Día a día',
+          paragraphs: [
+            'Y frente a la poética de sus textos, la búsqueda inagotable de sus propuestas escénicas y un desfile de personajes, hijos todos de las formas de desarraigo, Colcultura, la Casa del Teatro y este grupo de amigos y seguidores de su quehacer teatral, han dedicado durante el transcurso de esta semana un sinfín de actividades de conmemoración. como: Una lectura dramatizada de su obra "Las burguesas de la calle menor(1986)" a cargo del grupo Mapa, una mesa redonda en torno a su dramaturgia con la participación de Carlos José Reyes, Gilberto Bello, Joe Broderick, Santiago García, Enrique Buenaventura y Ramiro Tejada.',
+            'Para hoy en la sede de la Casa del Teatro se pondrá de nuevo en escena bajo la caracterización de Nora Quintero, la obra "Monólogo para una actriz triste" a partir de las diez de la noche y hasta mañana en el mismo lugar Carlos Mario Lema tendrá en exhibición, una muestra fotográfica con los montajes del dramaturgo.',
+          ],
+        },
+      ],
+    },
+    {
+      images: [
+        {
+          url: 'https://res.cloudinary.com/dnenhfh4v/image/upload/v1624659563/web_juan_manuel/Amantina_o_la_historia_de_un_desamor/Amantina_o_la_historia_de_un_desamor_03_md_rt11p4.jpg',
+        },
+      ],
+      id: 3,
+      slug: 'en-el-arte',
+      title: 'En el arte, Freidel consumía todas sus pasiones',
+      source: 'El Mundo',
+      author: 'Ramiro Tejada',
+      date: 'Julio 14 de 1999',
+      abstract: {
+        paragraphs: [
+          'José Manuel Freidel escribió Avalares al filo de la muerte, en meses agónicos del año 90. La obra, que se estrena mañana en la Exfanfarria, es la disculpa para trazar un perfil de su autor, el más vital y prolífico de los dramaturgos antioqueños.',
+        ],
+      },
+      sections: [
+        {
+          paragraphs: [
+            'Freidel empezó a hacer teatro allá por el 71 o 72, con unos grupos universitarios que funcionaban en la Universidad de Medellín y la U. de A. él estudiaba en la de Medellín y para esta época del 72 armó un pequeño grupito. Estudiaba derecho y en el último semestre lo dejó, porque quería hacer teatro. Hizo esa elección frente a su familia: su familia era muy tradicional. Desde esa época asumió una poética muy particular que se conectaba con una denuncia social, aunque muy distinta de la que hacían Enrique Buenaventura o Santiago García, todo ese teatro contestatario de los 60. Freidel buscó otra cosa. Siempre tenía un contexto social, pero sobre todo estuvo permanentemente problematizando lo femenino. Sus primeras obras tenían un carácter de más denuncia: lo femenino lo trabajó con más profundidad a partir de los 80. Separado de toda una tradición familiar, decide empezar a hacer teatro en serio. El grupo de la Universidad de Medellín, se conecta con los de la U. de A. y se forma un núcleo que fue el origen de un primer movimiento teatral muy rudimentario, donde estaban además de él, Gilberto Martínez, Luis Carlos Medina, Eduardo Sánchez. Ese movimiento empezó a jalonar la formación de una escuela de teatro que se vino a concretar en lo que después sería la EPA. Por esa época hacía teatro el negro Aguirre, Carlos Mario Aguirre, aunque de una forma aislada, él trató de hacer algo muy vanguardista, por ejemplo. El pupilo que quería ser tutor, de Peter Handke, que montó con Lindaria Espinosa.',
+            'En el 76 Freidel formó un grupo con Medina y Nora Quintero: ellos básicamente hacen teatro en la de Antioquía, aunque circulan por todas las universidades. La de Medellín llevaba la vanguardia a nivel del teatro. Cuando cerraron la de Medellín, la de Antioquía se solidarizó. El teatro y otras manifestaciones artísticas se convirtieron en la manera de hacer presencia y solidaridad con el movimiento estudiantil.',
+            'Freidel empieza montando obras donde dirigía y actuaba. No había tenido formación en dramaturgia, dirigía intuitivamente. Parece que se desencantó pronto de su papel de actor. En una gira con Las medallas del general, la policía les decomisó unos fusiles que eran en realidad palos de escoba; además, Freidel era tan apasionado y se creía tanto el personaje que alguna vez le hecho las madres a un general. Así, poco a poco, declararon que Freidel era un peligro como actor, y él se queda como director.',
+            'Cuando se crea La Fanfarria empieza también una manera especial de hacer teatro que implicaba una fusión de arte y vida, el papel del director siempre estuvo mezclado con el del amigo, con el del amante, eran muchas relaciones a la vez. Se mezclaban la ira, la rabia, el dolor. Era una olla a presión donde no había distancia entre el director y los actores. A veces un montaje de ocho meses se dañaba por una pelea de última hora, no había distancia reflexiva ante el producto teatral, lo que desfavoreció la dinámica del grupo, porque se caía en cierta transitoriedad de la creación, el producto no era estable aunque fuera muy bueno.',
+            'Los ensayos se prolongaban hasta las 3:00 ó 4:00 de la mañana, primero en una casita por Villa Hermosa, después en la sede actual de la Ex-fanfarria. No recibían ningún apoyo oficial, era un teatro que realmente llegaba sólo a las élites intelectuales. En los 70 ellos iban a los sindicatos acompañando a los trabajadores en las huelgas, a los estudiantes en sus asambleas; después se cansaron de ese populismo.',
+            'Freidel es un dramaturgo maldito, de ahí su afición por los bajos fondos, su amor por Genet y Lorca: siempre estuvo del lado oscuro de la marginalidad, trataba de forjar un estilo propio que diera cuenta de la marginalidad desde un estilo propio, quería hacer de ella una metáfora universal. El arte de Freidel nunca indicaba un camino, no era panfletario ni pretendía hacer corrección social. En él la denuncia adquiría muchos matices.',
+          ],
+        },
+        {
+          subtitle: 'Ruptura y continuidad',
+          paragraphs: [
+            'La Fanfarria se divide en los 80, los unos se dedican a hacer títeres y la Exfanfarria asumió el proyecto de Freidel que partía de la improvisación del actor.',
+            'Freidel escogía un tema y todos los actores buscaban materiales sobre ese tema: en Guayaquil, en los barrios, en los libros. Finalmente él escribía, daba el toque final, tenía una gran capacidad de sintetizar toda una vivencia de los actores. Muchas de sus obras surgen de su pasión por actores que marcaron época en él: a Fernando Zapata le escribió Soledad quiere bailar, a Nora Quintero, Monólogo para una actriz triste, a Ramiro Tejada, La triste historia de un abogado que quiso ser actor: no escribía en lo abstracto. Empezaron a escribirse muchas obras: Los infortunios de la bella Otero y otras desdichas, El árbol de las muchachas flor, Las tardes de Manuela... Desde el 86, más o menos, la  Exfanfarria empieza a ser aceptada como la vanguardia del movimiento teatral en Medellín. La obra que constituye un hito es Las burguesas de la calle menor, casi cada año se estaba produciendo una obra. Freidel produce en tres frentes: la Exfanfarria, la U. de A. y la EPA, donde tenía el grupo de proyección, más o menos durante 8 años, con montajes como El romance de la bella Berta y Berto el bandido, Las aventaras del boleta bambury, hortensia la flor más petulante y tal vez la más perversa. Escribía en todas partes, su estado de ánimo oscilaba entre extremos: en el día te decía que eras el actor más malo que había conocido y por la noche te cubría de abrazos.',
+          ],
+        },
+        {
+          subtitle: 'El último avatar',
+          paragraphs: [
+            'Cuando escribió Avatares se estaba dando la masacre de policías en Medellín. La escribió en Ecuador, en medio de una profunda crisis personal: el conflicto con su sexualidad se pronunciaba por su edad. Poco antes de su muerte, esas crisis se acentuaron, su sensibilidad de artista se veía sacudida por la situación política, él siempre tematizó las honduras de la crisis tal como eran captadas en los sustratos marginales de la cultura: putas, travestis, campesinos desplazados. Freidel es el único dramaturgo realmente diferente que se ha dado en Antioquía, su escritura tenía vuelo, era nutrida por una tradición específica, o por muchas tradiciones: el siglo de oro español, Carrasquilla.',
+            'En la coyuntura social del 90, Freidel escribió Avatares; su concepción fue agónica: no soltaba la libreta, escribía con una botella de ron al lado.',
+            'Pero era capaz de botar lo que escribía, tiraba la libreta y todas las hojas volaban, o las dejaba en cualquier parte. El grupo siempre fue el principio de conciencia.',
+            'En el 91 montamos Avatares por primera vez, como un homenaje a Freidel, un año después de muerto. Lo montamos Fernando Zapata, Wbeimar Agudelo, Tania Granda, Jorge Luis García..."',
+            'El perfil de Freidel se hizo con base en testimonios de Tania Granda, actriz del primer montaje de Avatares. Freidel fue asesinado en septiembre de 1990. La imagen del dolor',
+          ],
+        },
+      ],
+    },
+    {
+      images: [
+        {
+          url: 'https://res.cloudinary.com/dnenhfh4v/image/upload/v1624659563/web_juan_manuel/Amantina_o_la_historia_de_un_desamor/Amantina_o_la_historia_de_un_desamor_03_md_rt11p4.jpg',
+        },
+      ],
+      id: 4,
+      slug: 'nunca-llego-para-el-ensayo',
+      title:
+        'Asesinado José Manuel Freydel, El dramaturgo y director de la Ex Fanfarria nunca llegó para el ensayo',
+      source: 'El Colobiano',
+      author: '',
+      date: 'Octubre 2 de 1990',
+      abstract: {
+        paragraphs: [
+          'Una noticia de la página de Seguridad reseñó el pasado domingo en este diario, en su Columna de Sucesos Breves la noticia titulada: NN',
+        ],
+      },
+      sections: [
+        {
+          paragraphs: [
+            'Una noticia de la página de Seguridad reseñó el pasado domingo en este diario, en su Columna de Sucesos Breves la noticia titulada: NN',
+            '“En la Carrera 36A con Calle 50, se diligenció el levantamiento de un NN masculino, de 30 años. 1.70 de estatura, trigueño, cabello lacio; vestía pantalón blanco, camiseta negra, zapatos suecos negros. Presentaba un impacto con arma de fuego”.',
+            'La triste noticia recogió las señas mínimas de un cadáver víctima de la violencia citadina que quedó reseñado como NN, pero que hoy se sabe a ciencia cierta que se trataba del alegre José Manuel Freydel, el dramaturgo y director del grupo de teatro de la Ex Fanfarria.',
+            'Su asesinato ocurrió entre la noche del pasado viernes y la madrugada del sábado, después de que hubiera salido de dirigir el montaje del Padre Casafús -alias Luterito, con el cual se hace un homenaje a don Tomás Carrasquilla que nunca pudo ver. El grupo lo estrenará en su homenaje póstumo el próximo jueves-. Sus compañeros del grupo lo esperaban para poder abrir la sede de la Ex-Fanfarria Teatro, en las inmediaciones del Teatro Pablo Tobón Uribe, pero estaban extrañados porque cuando su director no aparecía, siempre llamaba para avisarles dónde estaba, cuánto se demoraba o dónde les dejaba la llave de la sede. El pasado sábado no pudieron ensayar. Guardaban la esperanza de que estuviera "por ahí donde los amigos enrrumbao..." También llegaron los actores del Teatro de la Nacional y de la Escuela Popular de Artes, grupos que también dirigía. Nadie sabía nada de él... Hasta que se hizo tarde y se dispersaron.',
+            'Por la noticia publicada el domingo en Sucesos Breves se dirigió uno de sus hermanos al anfiteatro con la leve esperanza de no encontrarse allí a quien iba a buscar... La camisa tenía una sola mancha de sangre, como parecida al afiche con que se ilustró lo que será el estreno de El padre Casafús. A las 2:30 de la tarde lo enterraron el mismo domingo en Jardínes Montesacro, acompañado de la gente de teatro de la ciudad y de algunos artistas plásticos que se enteraron de su muerte. Allí, en su despedida alcanzaron a balbucir algunos de sus textos y a dejarle algunas flores en medio de toda la tristeza de esta trágica partida... Pero su muerte violenta ha conmocionado a los círculos de teatro del país, La Candelaria de Bogotá y el TEC, de Cali propusieron en sus salas un minuto de silencio y una marcha en su homenaje.',
+            'Este dramaturgo nos deja poco más de 30 obras escritas que siempre dieron mucho de qué hablar porque refiriéndose a Becket -se le acomodaría a Freydel- lo que dice Ángel Fernández Santos: "La fuerza de un escritor dramático no reside en su mayor o menor lucidez para entender la realidad, sino en su mayor o menor energía para expresar la intensidad y el ritmo de esa misma realidad. No en comprender correctamente lo que pasa sino en asumir profundamente lo que pasa".',
+            'Escribió entre otras: Amantina o la historia de un desamor (77); Las arpías (81); Los infortunios de la Bella Otero y otras desdichas (83); En casa de Irene (84); Romance del Bacán y la Maleva (85); Monólogo para una actriz triste (86); Las burguesas de la calle menor (86); ¡Ay! Días Chiqui (87); Amantina o la historia de un desamor (87); Soledad quiere bailar (88); Contratiempos (88); Tribulaciones de un abogado que quiso ser actor o El oloroso caso de la manzana verde (89).',
+          ],
+        },
+        {
+          subtitle: 'Trayectoria',
+          paragraphs: [
+            'Freydel nació en Santa Bárbara, en 1951, hijo de Ernesto Freydell y Justina Correa. Estudió cuatro años de derecho en la Universidad de Medellín, donde además inició un grupo de teatro, a comienzos de la década del 70, con Nora Quintero: Las medallas del general. Creó un grupo de trabajo en la cárcel La Ladera, paralelamente.',
+            'Compartió la fundación del Teatro La Fanfarria que en un comienzo también involucró al grupo de los titiriteros. Trabajaron en el barrio La Mansión hasta que la curia los desalojó. Luego se separaron y el teatro quedó como la Ex Fanfarria, para no perder todo su "goodwill".',
+            'Desde el año 87 se quedaron con la antigua sede del Pequeño Teatro, en las inmediaciones del Teatro Pablo Tobón Uribe, donde han podido realizar un trabajo más tranquilo.',
+            'Su perfil humano siempre lo distinguió por no cargarle agua en la boca a nadie para decirle lo que pensaba. Estaba terminando el guión de El árbol de la casa de las muchachas flor y en su libreta de apuntes están consignadas las últimas escenas. También tenía el texto que acababa de escribir, titulado Avatares, historia de un policía que está amenazado y sabe que lo van a matar...',
+            'Con el grupo de teatro de la EPA llevaba trabajando cerca de 9 años y con el de la U. Nacional un año menos. Para el estreno de El Padre casafús escribió Freydel: "...Entérese en esta versión, adaptación de tablas y música, de letras, que un perseguido por religión y política nos obligó a revolcar caras para sumarlas a las máscaras de la escena, enterarse que todo esto, el teatro, no es tarea fácil sino un reto, una necesidad para la Ex Fanfarria, un encuentro para nuestros muchos amigos con quienes queremos ofrendar a la memoria de Don Tomás, a su identidad histórica y a su entrega a la literatura. Un saludo al maestro y a ustedes: José Manuel."',
+          ],
+        },
+      ],
+    },
+  ],
 }

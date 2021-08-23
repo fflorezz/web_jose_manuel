@@ -1,5 +1,5 @@
 exports.createPages = async ({ actions, graphql, reporter }) => {
-  const result = await graphql(`
+  const resultPlays = await graphql(`
     query {
       site {
         siteMetadata {
@@ -24,11 +24,11 @@ exports.createPages = async ({ actions, graphql, reporter }) => {
     }
   `)
 
-  if (result.errors) {
-    reporter.panic('failed to create plays', result.errors)
+  if (resultPlays.errors) {
+    reporter.panic('failed to create plays', resultPlays.errors)
   }
 
-  const plays = result.data.site.siteMetadata.obras
+  const plays = resultPlays.data.site.siteMetadata.obras
 
   plays.forEach(play => {
     actions.createPage({
@@ -37,6 +37,50 @@ exports.createPages = async ({ actions, graphql, reporter }) => {
       context: {
         slug: play.slug,
         play,
+      },
+    })
+  })
+
+  const resultNews = await graphql(`
+    query {
+      site {
+        siteMetadata {
+          noticias {
+            id
+            slug
+            title
+            source
+            date
+            author
+            sections {
+              subtitle
+              paragraphs
+            }
+            images {
+              url
+            }
+            abstract {
+              paragraphs
+            }
+          }
+        }
+      }
+    }
+  `)
+
+  if (resultNews.errors) {
+    reporter.panic('failed to create plays', resultNews.errors)
+  }
+
+  const newsList = resultNews.data.site.siteMetadata.noticias
+
+  newsList.forEach(news => {
+    actions.createPage({
+      path: `noticias/${news.slug}`,
+      component: require.resolve('./src/templates/news.js'),
+      context: {
+        slug: news.slug,
+        news,
       },
     })
   })

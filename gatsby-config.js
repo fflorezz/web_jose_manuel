@@ -5,6 +5,7 @@ module.exports = {
     title: config.title,
     description: config.description,
     obras: config.obras,
+    noticias: config.noticias,
   },
   plugins: [
     'gatsby-plugin-image',
