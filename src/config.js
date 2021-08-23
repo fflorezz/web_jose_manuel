@@ -388,7 +388,7 @@ module.exports = {
     {
       images: [
         {
-          url: 'https://res.cloudinary.com/dnenhfh4v/image/upload/v1624659563/web_juan_manuel/Amantina_o_la_historia_de_un_desamor/Amantina_o_la_historia_de_un_desamor_03_md_rt11p4.jpg',
+          url: 'https://res.cloudinary.com/dnenhfh4v/image/upload/v1629760107/web_juan_manuel/prensa/EL-SIGLO-Domingo-1-de-octubre-de-1995_zdc725.jpg',
         },
       ],
       id: 1,
@@ -448,7 +448,7 @@ module.exports = {
     {
       images: [
         {
-          url: 'https://res.cloudinary.com/dnenhfh4v/image/upload/v1624659563/web_juan_manuel/Amantina_o_la_historia_de_un_desamor/Amantina_o_la_historia_de_un_desamor_03_md_rt11p4.jpg',
+          url: 'https://res.cloudinary.com/dnenhfh4v/image/upload/v1629760106/web_juan_manuel/prensa/EL-MUNDO-viernes-29-de-septiembre-de-1995_cqhtyq.jpg',
         },
       ],
       id: 2,
@@ -488,7 +488,7 @@ module.exports = {
     {
       images: [
         {
-          url: 'https://res.cloudinary.com/dnenhfh4v/image/upload/v1624659563/web_juan_manuel/Amantina_o_la_historia_de_un_desamor/Amantina_o_la_historia_de_un_desamor_03_md_rt11p4.jpg',
+          url: 'https://res.cloudinary.com/dnenhfh4v/image/upload/v1629760111/web_juan_manuel/prensa/EL-MUNDO-Mi%C3%A9rcoles-14-de-julio-de-1999_vng4vq.jpg',
         },
       ],
       id: 3,
@@ -535,7 +535,7 @@ module.exports = {
     {
       images: [
         {
-          url: 'https://res.cloudinary.com/dnenhfh4v/image/upload/v1624659563/web_juan_manuel/Amantina_o_la_historia_de_un_desamor/Amantina_o_la_historia_de_un_desamor_03_md_rt11p4.jpg',
+          url: 'https://res.cloudinary.com/dnenhfh4v/image/upload/v1629760395/web_juan_manuel/prensa/EL-COLOMBIANO-Martes-2-de-octubre-de-1990-2_veg0kw.jpg',
         },
       ],
       id: 4,
