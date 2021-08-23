@@ -2,7 +2,7 @@ import React from 'react'
 import { Link } from 'gatsby'
 
 const PlayPreview = ({ play, idx }) => {
-  if (!play.images) return null
+  if (!play.images.length) return null
 
   return (
     <article className="mb-6 md:mb-4 md:grid md:grid-cols-2 md:gap-4 md:grid-flow-col-dense">

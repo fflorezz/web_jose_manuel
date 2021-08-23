@@ -52,6 +52,7 @@ module.exports = {
     },
     {
       id: 2,
+      images: [],
       slug: 'romances-page',
       title: 'Romances',
       year: '1978',
@@ -77,6 +78,7 @@ module.exports = {
     },
     {
       id: 3,
+      images: [],
       slug: 'arpias-page',
       title: 'Las arpías',
       year: '1981',
@@ -147,6 +149,7 @@ module.exports = {
     },
     {
       id: 5,
+      images: [],
       slug: 'hamlet-page',
       title: 'Hamlet en este país de ratas retóricas',
       year: '1985',
@@ -184,6 +187,7 @@ module.exports = {
     },
     {
       id: 6,
+      images: [],
       slug: 'monologo-page',
       title: 'Monólogo para una actriz triste',
       year: '1986',
@@ -301,6 +305,7 @@ module.exports = {
     },
     {
       id: 10,
+      images: [],
       slug: 'manuela-page',
       title: 'Las tardes de Manuela',
       year: '1989',
@@ -320,6 +325,7 @@ module.exports = {
     },
     {
       id: 11,
+      images: [],
       slug: 'tribulaciones-page',
       title:
         'Tribulaciones de un abogado que quiso ser actor o el oloroso caso de la manzana verde',
@@ -359,6 +365,7 @@ module.exports = {
         },
       ],
       id: 12,
+      images: [],
       slug: 'casafus-page',
       title: 'El padre Casafús',
       year: '1990',
