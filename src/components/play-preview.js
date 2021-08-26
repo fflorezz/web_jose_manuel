@@ -6,13 +6,13 @@ const PlayPreview = ({ play, idx }) => {
 
   return (
     <article className="mb-6 md:mb-4 md:grid md:grid-cols-2 md:gap-4 md:grid-flow-col-dense">
-      <div className={idx % 2 === 0 ? '' : 'order-last'}>
+      <Link to={play.slug} className={idx % 2 === 0 ? '' : 'order-last'}>
         <img
           src={play.images[0].url}
           alt={play.title}
           className="md:h-96 w-full object-cover"
         />
-      </div>
+      </Link>
 
       <Link
         to={play.slug}
