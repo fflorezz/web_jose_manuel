@@ -6,6 +6,11 @@
   z-index: 1;
   -webkit-user-select: none;
   user-select: none;
+  outline: none;
+}
+
+.menuToggle:focus {
+  outline: none;
 }
 
 .menuToggle span {
