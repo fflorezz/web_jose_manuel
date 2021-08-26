@@ -3,17 +3,17 @@ import Layout from '../components/layout'
 import PageTitle from '../components/page-title'
 
 const Contacto = () => {
-  function handleSubmit() {
-    console.log('SUBMIT')
-  }
-
   return (
     <Layout>
       <PageTitle>Contacto</PageTitle>
       <p className="px-4 mt-4 text-gray-400">
         Para mayor información sobre la obra de José Manuel ponte en contacto:
       </p>
-      <form action="" className="px-4 mt-4 ">
+      <form
+        action="https://formsubmit.co/josemanuelfreidel@gmail.com"
+        method="POST"
+        className="px-4 mt-4 "
+      >
         <div className="grid grid-cols-6 gap-6">
           <div className="col-span-6 sm:col-span-3">
             <label htmlFor="name" className="block font-medium text-gray-700">
@@ -53,8 +53,7 @@ const Contacto = () => {
         </div>
         <button
           className="mt-8 bg-indigo-600 py-2 px-16 text-white rounded hover:bg-indigo-900 font-medium"
-          type="button"
-          onClick={handleSubmit}
+          type="submit"
         >
           Enviar
         </button>
