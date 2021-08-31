@@ -78,7 +78,17 @@ module.exports = {
     },
     {
       id: 3,
-      images: [],
+      images: [
+        {
+          url: 'https://res.cloudinary.com/dnenhfh4v/image/upload/v1630451075/web_juan_manuel/arpias/arpias_01_ykdnqh.jpg',
+        },
+        {
+          url: 'https://res.cloudinary.com/dnenhfh4v/image/upload/v1630451078/web_juan_manuel/arpias/arpias_02_v9fjze.jpg',
+        },
+        {
+          url: 'https://res.cloudinary.com/dnenhfh4v/image/upload/v1630451078/web_juan_manuel/arpias/arpias_03_gfjem5.jpg',
+        },
+      ],
       slug: 'arpias-page',
       title: 'Las arpías',
       year: '1981',
@@ -187,7 +197,20 @@ module.exports = {
     },
     {
       id: 6,
-      images: [],
+      images: [
+        {
+          url: 'https://res.cloudinary.com/dnenhfh4v/image/upload/v1630450777/web_juan_manuel/monologo/monologo_01_isvjcq.jpg',
+        },
+        {
+          url: 'https://res.cloudinary.com/dnenhfh4v/image/upload/v1630450772/web_juan_manuel/monologo/monologo_04_nrae9w.jpg',
+        },
+        {
+          url: 'https://res.cloudinary.com/dnenhfh4v/image/upload/v1630450772/web_juan_manuel/monologo/monologo_03_savrnf.jpg',
+        },
+        {
+          url: 'https://res.cloudinary.com/dnenhfh4v/image/upload/v1630450771/web_juan_manuel/monologo/monologo_02_ahwcej.jpg',
+        },
+      ],
       slug: 'monologo-page',
       title: 'Monólogo para una actriz triste',
       year: '1986',
@@ -325,7 +348,17 @@ module.exports = {
     },
     {
       id: 11,
-      images: [],
+      images: [
+        {
+          url: 'https://res.cloudinary.com/dnenhfh4v/image/upload/v1630450331/web_juan_manuel/tribulaciones/tribulaciones_01_bal3h0.jpg',
+        },
+        {
+          url: 'https://res.cloudinary.com/dnenhfh4v/image/upload/v1630450332/web_juan_manuel/tribulaciones/tribulaciones_02_dyxi0h.jpg',
+        },
+        {
+          url: 'https://res.cloudinary.com/dnenhfh4v/image/upload/v1630450335/web_juan_manuel/tribulaciones/tribulaciones_03_aof9zp.jpg',
+        },
+      ],
       slug: 'tribulaciones-page',
       title:
         'Tribulaciones de un abogado que quiso ser actor o el oloroso caso de la manzana verde',
@@ -365,7 +398,14 @@ module.exports = {
         },
       ],
       id: 12,
-      images: [],
+      images: [
+        {
+          url: 'https://res.cloudinary.com/dnenhfh4v/image/upload/v1630451278/web_juan_manuel/padre/padre_02_y9r9vg.jpg',
+        },
+        {
+          url: 'https://res.cloudinary.com/dnenhfh4v/image/upload/v1630451278/web_juan_manuel/padre/padre_01_nfz6yt.jpg',
+        },
+      ],
       slug: 'casafus-page',
       title: 'El padre Casafús',
       year: '1990',

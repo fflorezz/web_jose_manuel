@@ -44,6 +44,7 @@ const Header = () => {
               <NavLinkMobile url="/bio">Bio</NavLinkMobile>
               <NavLinkMobile url="/obras">Obras</NavLinkMobile>
               <NavLinkMobile url="/noticias">Noticias</NavLinkMobile>
+              <NavLinkMobile url="/videos">Videos</NavLinkMobile>
               <NavLinkMobile url="/contacto">Contacto</NavLinkMobile>
             </ul>
           </nav>

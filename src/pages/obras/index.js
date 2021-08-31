@@ -6,7 +6,9 @@ import PlayPreview from '../../components/play-preview'
 import useObras from '../../hooks/use-obras'
 
 const Obras = () => {
-  const plays = useObras()
+  const plays = useObras().filter(play => {
+    return play.images.length
+  })
   return (
     <Layout>
       <PageTitle>Obras</PageTitle>
