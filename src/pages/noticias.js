@@ -9,7 +9,7 @@ const Obras = () => {
   const newsList = useNoticias()
   return (
     <Layout>
-      <PageTitle>Noticias</PageTitle>
+      <PageTitle>Prensa</PageTitle>
       <section className="mt-6">
         {newsList.map((play, idx) => {
           return <NewsPreview idx={idx} key={play.id} news={play} />

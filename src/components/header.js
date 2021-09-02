@@ -31,7 +31,7 @@ const Header = () => {
           <ul className="flex">
             <NavLink url="/bio">Bio</NavLink>
             <NavLink url="/obras">Obras</NavLink>
-            <NavLink url="/noticias">Noticias</NavLink>
+            <NavLink url="/noticias">Prensa</NavLink>
             <NavLink url="/videos">Videos</NavLink>
             <NavLink url="/contacto">Contacto</NavLink>
           </ul>
@@ -43,7 +43,7 @@ const Header = () => {
             <ul className="flex flex-col items-center justify-center -mt-16 h-screen">
               <NavLinkMobile url="/bio">Bio</NavLinkMobile>
               <NavLinkMobile url="/obras">Obras</NavLinkMobile>
-              <NavLinkMobile url="/noticias">Noticias</NavLinkMobile>
+              <NavLinkMobile url="/noticias">Prensa</NavLinkMobile>
               <NavLinkMobile url="/videos">Videos</NavLinkMobile>
               <NavLinkMobile url="/contacto">Contacto</NavLinkMobile>
             </ul>
