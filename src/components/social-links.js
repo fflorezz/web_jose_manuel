@@ -3,7 +3,7 @@ import React from 'react'
 const SocialLinks = () => {
   return (
     <div
-      style={{ top: '6rem', right: '0' }}
+      style={{ top: '2rem', right: '0' }}
       className="absolute bg-white p-2 opacity-90 rounded-l-full flex space-x-4 text-gray-500"
     >
       <a
